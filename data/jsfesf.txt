@@ -1,0 +1,266 @@
+﻿{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "Z2y1VfZuY2nHjzA50NBof36ro-g",
+  "pageInfo": {
+    "totalResults": 8,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W23j5-DTw1EOdVTUdD7dfm3FXgc",
+      "id": "UgxWBxnZ9HvRTUtkKZJ4AaABAg",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oiomdGJ2pR0wE5j13yZaSW3KUHs",
+          "id": "UgxWBxnZ9HvRTUtkKZJ4AaABAg",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "textOriginal": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "authorDisplayName": "DYproduction",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyf85zxc71upbsFVr9FMHMo5Jh9wPB6JhKUbg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvqbTePi5Jq5SsIghCuKgVA",
+            "authorChannelId": {
+              "value": "UCvqbTePi5Jq5SsIghCuKgVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-08-05T13:48:06Z",
+            "updatedAt": "2020-08-05T13:48:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9wUrWfsjbaYfM9XWMi46Xb4IAu4",
+      "id": "UgwnySIvZWeI0vrq_ix4AaABAg",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KBCPb5j2SW3SecykzurVuZhAqkM",
+          "id": "UgwnySIvZWeI0vrq_ix4AaABAg",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "textOriginal": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "authorDisplayName": "daniel yanovsky",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzUtwFhLns02yBJkDVFXVx77kmhAaB_tXj28w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeDXtizFv7cvAcpvmVpnMKg",
+            "authorChannelId": {
+              "value": "UCeDXtizFv7cvAcpvmVpnMKg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-08-04T10:57:30Z",
+            "updatedAt": "2020-08-04T10:57:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SVZA5OpreEw0uSW6X-n5bR1Akkc",
+      "id": "UgyokcbBY-dQ-3uYdiB4AaABAg",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2qXHdn6y_nXtb2GLYVz7WEzVG80",
+          "id": "UgyokcbBY-dQ-3uYdiB4AaABAg",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "שלום לכולם אתם חייבים לראות את הסרטון שלי ביבי נגד גנץ קרב האנימה אני חושב שאהבו ותפיצו אותו\n\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "textOriginal": "שלום לכולם אתם חייבים לראות את הסרטון שלי ביבי נגד גנץ קרב האנימה אני חושב שאהבו ותפיצו אותו\n\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "authorDisplayName": "DYproduction",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyf85zxc71upbsFVr9FMHMo5Jh9wPB6JhKUbg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvqbTePi5Jq5SsIghCuKgVA",
+            "authorChannelId": {
+              "value": "UCvqbTePi5Jq5SsIghCuKgVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-08-04T10:35:50Z",
+            "updatedAt": "2020-08-04T10:35:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "z_HEKNmyjzZLqpS32GbQRdsXBE0",
+      "id": "UgyRTdLVsmONEyfrAJJ4AaABAg",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jja-Z8K6r0FwYiU4bDtcZc7r3v0",
+          "id": "UgyRTdLVsmONEyfrAJJ4AaABAg",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "שלום לכולם אתם חייבים לראות את הסרטון שלי ביבי נגד גנץ קרב האנימה אני חושב שאהבו ותפיצו אותו\n\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "textOriginal": "שלום לכולם אתם חייבים לראות את הסרטון שלי ביבי נגד גנץ קרב האנימה אני חושב שאהבו ותפיצו אותו\n\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "authorDisplayName": "DYproduction",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyf85zxc71upbsFVr9FMHMo5Jh9wPB6JhKUbg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvqbTePi5Jq5SsIghCuKgVA",
+            "authorChannelId": {
+              "value": "UCvqbTePi5Jq5SsIghCuKgVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-08-04T10:35:04Z",
+            "updatedAt": "2020-08-04T10:35:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kVImObBs8M9vsXiZ4ClN8Z9Zfuk",
+      "id": "UgyAjEGYq5GM8OGy1wh4AaABAg",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l2HtNFrcsb6YxUV4cDrDureb-Jg",
+          "id": "UgyAjEGYq5GM8OGy1wh4AaABAg",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "textOriginal": "תסתכלו על הסרטון שלי הוא מעולה ביבי נגד גנץ קרב האנימה\n  https://www.youtube.com/watch?v=wyFvmKNysXk",
+            "authorDisplayName": "DYproduction",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyf85zxc71upbsFVr9FMHMo5Jh9wPB6JhKUbg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvqbTePi5Jq5SsIghCuKgVA",
+            "authorChannelId": {
+              "value": "UCvqbTePi5Jq5SsIghCuKgVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-08-04T10:32:56Z",
+            "updatedAt": "2020-08-04T10:32:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BZM4ph4IKQHHSEixspDc7ki-HMA",
+      "id": "UggG4aaTCp2EtngCoAEC",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q4lQfqG6Xl118OhODDu8WkjkEE8",
+          "id": "UggG4aaTCp2EtngCoAEC",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "רוני כתב את זה",
+            "textOriginal": "רוני כתב את זה",
+            "authorDisplayName": "ירין מדר",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzrfnWtVq0IK6QpE63hK4HxyZo_Kt1kP7UOzA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV5TDC0Hqh3mF6kHLNM5Z8g",
+            "authorChannelId": {
+              "value": "UCV5TDC0Hqh3mF6kHLNM5Z8g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2017-02-24T11:49:58Z",
+            "updatedAt": "2017-02-24T11:49:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xm4gopQu628u8qSewQJbjCHg5Uk",
+      "id": "Ugj0AN8OoiCQungCoAEC",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "a3KRj41DU5FyWgCMAnVjEVnp-qw",
+          "id": "Ugj0AN8OoiCQungCoAEC",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "זקר[]י כתב\\0",
+            "textOriginal": "זקר[]י כתב\\0",
+            "authorDisplayName": "ירין מדר",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzrfnWtVq0IK6QpE63hK4HxyZo_Kt1kP7UOzA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV5TDC0Hqh3mF6kHLNM5Z8g",
+            "authorChannelId": {
+              "value": "UCV5TDC0Hqh3mF6kHLNM5Z8g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2017-02-24T11:49:15Z",
+            "updatedAt": "2017-02-24T11:49:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h-wGx5wEppByB3j-1iRXFwA2YDw",
+      "id": "UgiE8EgLjAvsR3gCoAEC",
+      "snippet": {
+        "videoId": "gAMI4p3cXtk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_XCTikUvCWFeCB5Kzvj2n7s7zec",
+          "id": "UgiE8EgLjAvsR3gCoAEC",
+          "snippet": {
+            "videoId": "gAMI4p3cXtk",
+            "textDisplay": "זו סדרה גרועה",
+            "textOriginal": "זו סדרה גרועה",
+            "authorDisplayName": "ירין מדר",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzrfnWtVq0IK6QpE63hK4HxyZo_Kt1kP7UOzA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV5TDC0Hqh3mF6kHLNM5Z8g",
+            "authorChannelId": {
+              "value": "UCV5TDC0Hqh3mF6kHLNM5Z8g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2017-02-24T11:48:07Z",
+            "updatedAt": "2017-02-24T11:48:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

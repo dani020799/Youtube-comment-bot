@@ -1,0 +1,420 @@
+
+??? ?????? ??? ??? ???? ??? ?? ??? , ??? ???? ???? ???? ?? ?????? ?????? ????? ?? ???? ??? ??? ??? ?????? ??? ???? ????? ???? ????? ??? ?? ????? ??????.
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCeDXtizFv7cvAcpvmVpnMKg&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4YPXTM47MXc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ub0VUklbFFE&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=ub0VUklbFFE&lc=Ugx7IvSbOCtxXOsJet54AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=29fzBFyKoIo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=9hZuLR67f98&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=djKxNyqXgc0&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=cnTZ08Zdp6c&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=dcub0G6hu1E&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=qJQ-L9mQHX8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=lgfbTfybYe8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=uv-r7RhrCa8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DwtntH3m-sQ&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Kv-nl7ncfQE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3HXzdvHz9nQ&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=tCjVGa5WY7A&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gAMI4p3cXtk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=TPOZMUf8_Vc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=J6X1QUZFDlU&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=WTCLcf81BRA&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Dur0YMsfLCk&maxResults=100
+comm diable
+comment are disable
+comment are disable
+comment are disable
+comment are disable
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UC_HwfTAcjBESKZRJq6BTCpg&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UC_HwfTAcjBESKZRJq6BTCpg&part=snippet,id&order=date&maxResults=20&pageToken=CBQQAA
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4J024MJn--g&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=4J024MJn--g&lc=UgzW9_OOVHypD7-ZbVJ4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=4J024MJn--g&lc=UgzHmlYc8XOme9zLM_Z4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=4J024MJn--g&lc=UgxHhPX6OrRML_PDAxR4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=YlFmWMSQNoE&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=YlFmWMSQNoE&lc=Ugy6sxrnih1E19YWNs94AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BnpXipqGBEA&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=BnpXipqGBEA&lc=UgzSz6WqOaq5_F1U6Dx4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=97CvL6QlcAU&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=2--oXVipl6o&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=dUe6E-CPSOw&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ofUCnLZiPiM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=m_zAee0BOL8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=HMVpL-1ku_0&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=HMVpL-1ku_0&lc=UgwiaCjdzeyXNymwAlx4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=_hssWvXjEAg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6Ut-54E7cpM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=xcFnuldUFHI&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugy7-yaPLGPs0-WsMSh4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugyo4-pHN-kBVONfJB94AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgzgAgnF5NraDChPu2V4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgxiL_lrnkNeqq3Tsw14AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6QLGBzvJMzA&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CCPqyoBzu94&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=VUOHERSxmOM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=xyQNLbDMXno&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=snSBPofpleQ&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=fDBPIJWzMY8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=k4wPw1HL1-w&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=sEKU26549tc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5dU_JZC_zkw&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=2--oXVipl6o
+Sent topcomment to https://www.youtube.com/watch?v=dUe6E-CPSOw
+Sent topcomment to https://www.youtube.com/watch?v=ofUCnLZiPiM
+Sent topcomment to https://www.youtube.com/watch?v=m_zAee0BOL8
+Sent topcomment to https://www.youtube.com/watch?v=HMVpL-1ku_0
+Sent topcomment to https://www.youtube.com/watch?v=_hssWvXjEAg
+Sent topcomment to https://www.youtube.com/watch?v=6Ut-54E7cpM
+Sent topcomment to https://www.youtube.com/watch?v=xcFnuldUFHI
+Sent topcomment to https://www.youtube.com/watch?v=6QLGBzvJMzA
+Sent topcomment to https://www.youtube.com/watch?v=CCPqyoBzu94
+Sent topcomment to https://www.youtube.com/watch?v=VUOHERSxmOM
+Sent topcomment to https://www.youtube.com/watch?v=xyQNLbDMXno
+Sent topcomment to https://www.youtube.com/watch?v=snSBPofpleQ
+Sent topcomment to https://www.youtube.com/watch?v=fDBPIJWzMY8
+Sent topcomment to https://www.youtube.com/watch?v=k4wPw1HL1-w
+Sent topcomment to https://www.youtube.com/watch?v=sEKU26549tc
+Sent topcomment to https://www.youtube.com/watch?v=5dU_JZC_zkw
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCpSSzrovhI4fA2PQNItecUA&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCpSSzrovhI4fA2PQNItecUA&part=snippet,id&order=date&maxResults=20&pageToken=CBQQAA
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ByUXiiB22HU&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=Ugw0iWY2x2ZYBCycfrR4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=UgyeWdJuo_cdwJHNS0Z4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jqc9tNinuwY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=IjWvrEc4rLs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=i0F2mKHl9PU&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=i0F2mKHl9PU&lc=UgxUA2Xrv4-GxaeEG494AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=tup5MyEqSMs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jClfXbZHnp0&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=jClfXbZHnp0&lc=Ugz2NLJWOu_6N7zUK_x4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4Zwpf4fU5XM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6xH6dOg79_U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=LeJwNGkxDb8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=uSaHtP-p7Rk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5sdIpyPfmwU&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DzLCAnguteg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=NbFB8DKSzoo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=HPMCjpWYLvk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FZ5_n-ciogs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=o3pzUAHQF0A&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=VcascnKg_DU&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=d-_rRi0IU8k&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=WAHGluTCzhM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CJ4XpD8mhH4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3LZkJ3-vHRg&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=3LZkJ3-vHRg&lc=UgySZcZbHIaMHa82qiB4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=7x_hzHI0hW4&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=ByUXiiB22HU
+Sent topcomment to https://www.youtube.com/watch?v=jqc9tNinuwY
+Sent topcomment to https://www.youtube.com/watch?v=IjWvrEc4rLs
+Sent topcomment to https://www.youtube.com/watch?v=i0F2mKHl9PU
+Sent topcomment to https://www.youtube.com/watch?v=tup5MyEqSMs
+Sent topcomment to https://www.youtube.com/watch?v=jClfXbZHnp0
+Sent topcomment to https://www.youtube.com/watch?v=4Zwpf4fU5XM
+Sent topcomment to https://www.youtube.com/watch?v=6xH6dOg79_U
+Sent topcomment to https://www.youtube.com/watch?v=LeJwNGkxDb8
+Sent topcomment to https://www.youtube.com/watch?v=uSaHtP-p7Rk
+Sent topcomment to https://www.youtube.com/watch?v=5sdIpyPfmwU
+Sent topcomment to https://www.youtube.com/watch?v=DzLCAnguteg
+Sent topcomment to https://www.youtube.com/watch?v=NbFB8DKSzoo
+Sent topcomment to https://www.youtube.com/watch?v=HPMCjpWYLvk
+Sent topcomment to https://www.youtube.com/watch?v=FZ5_n-ciogs
+Sent topcomment to https://www.youtube.com/watch?v=o3pzUAHQF0A
+Sent topcomment to https://www.youtube.com/watch?v=VcascnKg_DU
+Sent topcomment to https://www.youtube.com/watch?v=d-_rRi0IU8k
+Sent topcomment to https://www.youtube.com/watch?v=WAHGluTCzhM
+Sent topcomment to https://www.youtube.com/watch?v=CJ4XpD8mhH4
+Sent topcomment to https://www.youtube.com/watch?v=3LZkJ3-vHRg
+Sent topcomment to https://www.youtube.com/watch?v=7x_hzHI0hW4
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCzuhZvXZVi7KQAPbOQfBIgw&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5VnhN2CGTfo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=2uIeIAqaTDM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yRkdEsUqtM0&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3aRqrJB5NWI&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=3aRqrJB5NWI&lc=UgxSV2OTbFqyD5SKm6Z4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=mqnq-T9v7-s&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DqZxI7WCEcs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=EBpiSYgLxfk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jd_R0trfelw&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4lJ7iKj-ccc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=qWiCLMI0yVs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=SRztj8e-ZF4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CI2xaSX-bWo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rBOhLXS3vU4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=56RycVHaoLY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FpS8otUeEYI&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DTpzAhcXe78&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ZVk95LtkWWY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yfjFuvdZb8w&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=_LL2ZPzC-5M&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=5VnhN2CGTfo
+Sent topcomment to https://www.youtube.com/watch?v=2uIeIAqaTDM
+Sent topcomment to https://www.youtube.com/watch?v=yRkdEsUqtM0
+Sent topcomment to https://www.youtube.com/watch?v=3aRqrJB5NWI
+Sent topcomment to https://www.youtube.com/watch?v=mqnq-T9v7-s
+Sent topcomment to https://www.youtube.com/watch?v=DqZxI7WCEcs
+Sent topcomment to https://www.youtube.com/watch?v=EBpiSYgLxfk
+Sent topcomment to https://www.youtube.com/watch?v=jd_R0trfelw
+Sent topcomment to https://www.youtube.com/watch?v=4lJ7iKj-ccc
+Sent topcomment to https://www.youtube.com/watch?v=qWiCLMI0yVs
+Sent topcomment to https://www.youtube.com/watch?v=SRztj8e-ZF4
+Sent topcomment to https://www.youtube.com/watch?v=CI2xaSX-bWo
+Sent topcomment to https://www.youtube.com/watch?v=rBOhLXS3vU4
+Sent topcomment to https://www.youtube.com/watch?v=56RycVHaoLY
+Sent topcomment to https://www.youtube.com/watch?v=FpS8otUeEYI
+Sent topcomment to https://www.youtube.com/watch?v=DTpzAhcXe78
+Sent topcomment to https://www.youtube.com/watch?v=ZVk95LtkWWY
+Sent topcomment to https://www.youtube.com/watch?v=yfjFuvdZb8w
+Sent topcomment to https://www.youtube.com/watch?v=_LL2ZPzC-5M
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCZQGlRWTtpmTc9wET0-HspQ&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=hPjJ4RFxE10&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=86ikyKhdPzE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yOf8mcB-pbg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=12ea9s2Pi48&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=XPve1oZa9Uo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BzEMCaLWcWE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CV5Gd1dAr_U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rVRDV_q2IDk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=zrRXmF8YweY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=kiiCJPJm9O8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=JVewcN1mVLg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gVC4ttToXOQ&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=LmSAQoaYPDY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=JcOkd34udec&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FKcnP_8dq0c&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rhTgslCZDc4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=s_qEwbJGSqc&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=hPjJ4RFxE10
+Sent topcomment to https://www.youtube.com/watch?v=86ikyKhdPzE
+Sent topcomment to https://www.youtube.com/watch?v=yOf8mcB-pbg
+Sent topcomment to https://www.youtube.com/watch?v=12ea9s2Pi48
+Sent topcomment to https://www.youtube.com/watch?v=XPve1oZa9Uo
+Sent topcomment to https://www.youtube.com/watch?v=BzEMCaLWcWE
+Sent topcomment to https://www.youtube.com/watch?v=CV5Gd1dAr_U
+Sent topcomment to https://www.youtube.com/watch?v=rVRDV_q2IDk
+Sent topcomment to https://www.youtube.com/watch?v=zrRXmF8YweY
+Sent topcomment to https://www.youtube.com/watch?v=kiiCJPJm9O8
+Sent topcomment to https://www.youtube.com/watch?v=JVewcN1mVLg
+Sent topcomment to https://www.youtube.com/watch?v=gVC4ttToXOQ
+Sent topcomment to https://www.youtube.com/watch?v=LmSAQoaYPDY
+Sent topcomment to https://www.youtube.com/watch?v=JcOkd34udec
+Sent topcomment to https://www.youtube.com/watch?v=FKcnP_8dq0c
+Sent topcomment to https://www.youtube.com/watch?v=rhTgslCZDc4
+Sent topcomment to https://www.youtube.com/watch?v=s_qEwbJGSqc
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCkAR4D5Y8jPhXR_lH5xrA-w&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CXLM6DjAzrM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=iTHytzat95U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=hj3Kw2I6uGE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=T7tXgpQOgbM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FdLxC3bX87Q&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=OHGfG4w1MGw&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=s8K3vo8ckdE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=znQqJ5Gwq34&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=EUUvEB74_9M&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=L690Nd6LIws&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Zbb_LoUr41s&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gxZvVi_FhNM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=NuT_W9_k5fg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BmQydwiroAg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yUrliuOmTg4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=PVHFOLqAc-o&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=CXLM6DjAzrM
+Sent topcomment to https://www.youtube.com/watch?v=iTHytzat95U
+Sent topcomment to https://www.youtube.com/watch?v=hj3Kw2I6uGE
+comment are disable
+Sent topcomment to https://www.youtube.com/watch?v=FdLxC3bX87Q
+Sent topcomment to https://www.youtube.com/watch?v=OHGfG4w1MGw
+Sent topcomment to https://www.youtube.com/watch?v=s8K3vo8ckdE
+Sent topcomment to https://www.youtube.com/watch?v=znQqJ5Gwq34
+comment are disable
+Sent topcomment to https://www.youtube.com/watch?v=L690Nd6LIws
+Sent topcomment to https://www.youtube.com/watch?v=Zbb_LoUr41s
+Sent topcomment to https://www.youtube.com/watch?v=gxZvVi_FhNM
+comment are disable
+comment are disable
+comment are disable
+comment are disable
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCeDXtizFv7cvAcpvmVpnMKg&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4YPXTM47MXc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ub0VUklbFFE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=29fzBFyKoIo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=9hZuLR67f98&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=djKxNyqXgc0&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=cnTZ08Zdp6c&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=dcub0G6hu1E&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=dcub0G6hu1E&lc=UgxaUroccWNbi3AJ3nJ4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=qJQ-L9mQHX8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=lgfbTfybYe8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=uv-r7RhrCa8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DwtntH3m-sQ&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Kv-nl7ncfQE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3HXzdvHz9nQ&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=tCjVGa5WY7A&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gAMI4p3cXtk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=TPOZMUf8_Vc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=J6X1QUZFDlU&maxResults=100
+comm diable
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=WTCLcf81BRA&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Dur0YMsfLCk&maxResults=100
+comm diable
+comment are disable
+comment are disable
+comment are disable
+comment are disable
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UC_HwfTAcjBESKZRJq6BTCpg&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UC_HwfTAcjBESKZRJq6BTCpg&part=snippet,id&order=date&maxResults=20&pageToken=CBQQAA
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Irof-cq1nWM&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=Irof-cq1nWM&lc=UgzaPEIFdp8dNlrIpDR4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=Irof-cq1nWM&lc=UgxUnM_31Od8Cb4STe14AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=Irof-cq1nWM&lc=UgxFDPp3AIwKlRFG9ZJ4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=Irof-cq1nWM&lc=UgzwE3Xo6j4gHQ6P60V4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4J024MJn--g&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=4J024MJn--g&lc=UgzU8u8CQlNsUYaph0x4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=4J024MJn--g&lc=UgzJZr64FnGl6XuNSJt4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=YlFmWMSQNoE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BnpXipqGBEA&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=BnpXipqGBEA&lc=UgyaKp_JJEnF4gbjzEZ4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=BnpXipqGBEA&lc=UgyHF3D9lmANZ7cPyH94AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=97CvL6QlcAU&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=97CvL6QlcAU&lc=UgzAPrdzXc7_8j-JEyZ4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=97CvL6QlcAU&lc=Ugxzh4JKEhOlsvYEbqd4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=97CvL6QlcAU&lc=UgxQaLl8auWo63V-pPd4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=97CvL6QlcAU&lc=UgzfIsX3yLjRdWoik9Z4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=2--oXVipl6o&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=dUe6E-CPSOw&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=dUe6E-CPSOw&lc=Ugx_iUV6UbTZRdunMRx4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=dUe6E-CPSOw&lc=UgyD-Y-ysv-H0L5iiul4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=dUe6E-CPSOw&lc=UgzVTeWkVtJoW6MRRgt4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ofUCnLZiPiM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=m_zAee0BOL8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=HMVpL-1ku_0&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=HMVpL-1ku_0&lc=UgzJHz3Pju7uYZwvGiB4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=HMVpL-1ku_0&lc=UgwiaCjdzeyXNymwAlx4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=_hssWvXjEAg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6Ut-54E7cpM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=xcFnuldUFHI&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgyXeUxtXLgogGWQP7h4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugy7-yaPLGPs0-WsMSh4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugyo4-pHN-kBVONfJB94AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgwhVkSLdm2O3mPU5eZ4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgzxXIineTHrFIusfMF4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugye6fLCV6hhr1W2NVd4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=Ugy6nSHNUjj7MMyGTHB4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=xcFnuldUFHI&lc=UgzGwUU1cnBFJg5juGp4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6QLGBzvJMzA&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CCPqyoBzu94&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=VUOHERSxmOM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=xyQNLbDMXno&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=snSBPofpleQ&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=fDBPIJWzMY8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=k4wPw1HL1-w&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=sEKU26549tc&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=sEKU26549tc&lc=Ugzf1FmQFPJNCvmDOJt4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5dU_JZC_zkw&maxResults=100
+comment are disable
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCpSSzrovhI4fA2PQNItecUA&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCpSSzrovhI4fA2PQNItecUA&part=snippet,id&order=date&maxResults=20&pageToken=CBQQAA
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ByUXiiB22HU&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=Ugyw1nx8-wjRbosAfcB4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=Ugzg1ukXy96dh9_jdFh4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=Ugw0iWY2x2ZYBCycfrR4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=ByUXiiB22HU&lc=Ugwxs2kThl1Kh3jUbjV4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jqc9tNinuwY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=IjWvrEc4rLs&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=IjWvrEc4rLs&lc=UgwQfhLcfzsIePXVI0h4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=IjWvrEc4rLs&lc=UgxJASyiNY4dhotQnhB4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=IjWvrEc4rLs&lc=UgxrvKNcb8yNHWy7JUd4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=i0F2mKHl9PU&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=i0F2mKHl9PU&lc=UgyNyeTrn6_0sFAyLoV4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=i0F2mKHl9PU&lc=UgxUA2Xrv4-GxaeEG494AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=tup5MyEqSMs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jClfXbZHnp0&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4Zwpf4fU5XM&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=4Zwpf4fU5XM&lc=UgymHBBwegRVhYZVKO94AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=4Zwpf4fU5XM&lc=UgwGnhoilCex6DlVKDd4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=6xH6dOg79_U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=LeJwNGkxDb8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=uSaHtP-p7Rk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5sdIpyPfmwU&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DzLCAnguteg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=NbFB8DKSzoo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=8lXf7tZ5ris&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=8lXf7tZ5ris&lc=UgxMg0WNH2EV70EYgp94AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=8lXf7tZ5ris&lc=UgzvYa0QLnjY2xiFiGt4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=HPMCjpWYLvk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FZ5_n-ciogs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=o3pzUAHQF0A&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=VcascnKg_DU&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=d-_rRi0IU8k&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=WAHGluTCzhM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CJ4XpD8mhH4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3LZkJ3-vHRg&maxResults=100
+Sent topcomment to https://www.youtube.com/watch?v=8lXf7tZ5ris
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCzuhZvXZVi7KQAPbOQfBIgw&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=5VnhN2CGTfo&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=5VnhN2CGTfo&lc=Ugy7SP-d57fqIoZwDoF4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=5VnhN2CGTfo&lc=Ugz5un4By9GNw3VN0tB4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=2uIeIAqaTDM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yRkdEsUqtM0&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=3aRqrJB5NWI&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=3aRqrJB5NWI&lc=UgxSV2OTbFqyD5SKm6Z4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=3aRqrJB5NWI&lc=UgxnDXw8EcUVd5LSUFV4AaABAg
+Sent subcoment at https://www.youtube.com/watch?v=3aRqrJB5NWI&lc=Ugxt3oznqvvFUVEJkyV4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=mqnq-T9v7-s&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DqZxI7WCEcs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=EBpiSYgLxfk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=jd_R0trfelw&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=4lJ7iKj-ccc&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=qWiCLMI0yVs&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=SRztj8e-ZF4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CI2xaSX-bWo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rBOhLXS3vU4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=56RycVHaoLY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FpS8otUeEYI&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=DTpzAhcXe78&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=ZVk95LtkWWY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yfjFuvdZb8w&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=_LL2ZPzC-5M&maxResults=100
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCZQGlRWTtpmTc9wET0-HspQ&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=hPjJ4RFxE10&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=hPjJ4RFxE10&lc=UgxcHoWFAMwe_TSxZct4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=86ikyKhdPzE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yOf8mcB-pbg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=12ea9s2Pi48&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=XPve1oZa9Uo&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BzEMCaLWcWE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CV5Gd1dAr_U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rVRDV_q2IDk&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=zrRXmF8YweY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=kiiCJPJm9O8&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=JVewcN1mVLg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gVC4ttToXOQ&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=LmSAQoaYPDY&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=JcOkd34udec&maxResults=100
+Sent subcoment at https://www.youtube.com/watch?v=JcOkd34udec&lc=UgwbSYdZQvUrIKwM_6B4AaABAg
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FKcnP_8dq0c&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=rhTgslCZDc4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=s_qEwbJGSqc&maxResults=100
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&channelId=UCkAR4D5Y8jPhXR_lH5xrA-w&part=snippet,id&order=date&maxResults=20&pageToken=
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=CXLM6DjAzrM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=iTHytzat95U&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=hj3Kw2I6uGE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=T7tXgpQOgbM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=FdLxC3bX87Q&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=OHGfG4w1MGw&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=s8K3vo8ckdE&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=znQqJ5Gwq34&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=EUUvEB74_9M&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=L690Nd6LIws&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=Zbb_LoUr41s&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=gxZvVi_FhNM&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=NuT_W9_k5fg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=BmQydwiroAg&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=yUrliuOmTg4&maxResults=100
+https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyDpHJU7zoGV385RIpFO0krqdWABsTvhglE&textFormat=plainText&part=snippet&videoId=PVHFOLqAc-o&maxResults=100
